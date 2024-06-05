@@ -1,5 +1,7 @@
 # prize-draw
 
+## kyu 6
+
 To participate in a prize draw each one gives his/her firstname.
 
 Each letter of a firstname has a value which is its rank in the English alphabet. A and a have rank 1, B and b rank 2 and so on.
