@@ -1,5 +1,7 @@
 # prize-draw
 
+https://www.codewars.com/kata/5616868c81a0f281e500005c/javascript
+
 ## kyu 6
 
 To participate in a prize draw each one gives his/her firstname.
