@@ -2,7 +2,7 @@
 
 https://www.codewars.com/kata/52a382ee44408cea2500074c
 
-## kyu 4
+## kyu 5
 
 Write a function that accepts a square matrix (N x N 2D array) and returns the determinant of the matrix.
 
@@ -32,4 +32,4 @@ Note the alternation of signs.
 
 The determinant of larger matrices are calculated analogously, e.g. if M is a 4x4 matrix with first row [a, b, c, d], then:
 
-det(M) = a _ det(a_minor) - b _ det(b_minor) + c _ det(c_minor) - d _ det(d_minor)
+det(M) = a _ det(a_minor) - b _ det(b*minor) + c * det(c*minor) - d * det(d_minor)
