@@ -2,7 +2,7 @@
 
 # NOT SOLVED
 
-https://www.codewars.com/kata/69d0cce318db0019fe9c640b/train/typescript
+https://www.codewars.com/kata/69d0cce318db0019fe9c640b
 
 ## kyu 4
 

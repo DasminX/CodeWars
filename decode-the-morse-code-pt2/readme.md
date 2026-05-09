@@ -1,6 +1,6 @@
 # Decode the Morse code (part two)
 
-https://www.codewars.com/kata/54b72c16cd7f5154e9000457/train/typescript
+https://www.codewars.com/kata/54b72c16cd7f5154e9000457
 
 ## kyu 4
 

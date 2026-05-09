@@ -1,6 +1,6 @@
 # Duplicate Encoder
 
-https://www.codewars.com/kata/56dbf59b0a10feb08c000227/train/typescript
+https://www.codewars.com/kata/56dbf59b0a10feb08c000227
 
 ## kyu 6
 
